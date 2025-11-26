@@ -12,7 +12,7 @@ const About: React.FC = () => {
            animate={{ opacity: 1, y: 0 }}
            className="font-display text-5xl md:text-7xl text-white mb-12 text-center"
          >
-           THE <span className="text-gold-400">AGENCY</span>
+           THE <span className="text-gold-400">AGlENCY</span>
          </motion.h1>
          
          <div className="grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
